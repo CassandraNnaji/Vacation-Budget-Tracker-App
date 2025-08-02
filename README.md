@@ -1,1 +1,1 @@
-# Vacation-Budget-Tracker-App
+# Vacation Budget Tracker App
